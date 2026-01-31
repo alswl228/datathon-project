@@ -54,6 +54,7 @@
 
 </details>
 *(현재 유로 호스팅 만료로 인해 캡처본으로 결과물을 대체합니다)*
+
 ### 📂 주요 프로젝트 결과물
 * 📢 [프로젝트 최종 발표 자료 (Googole Drive)](https://drive.google.com/file/d/1G-HyjlQNYO-RMCPpx4Bjs0eGXtB3SIrg/view?usp=sharing)
 
