@@ -47,9 +47,9 @@
 8. **[컨설팅 제언]** 지역 트렌드를 반영한 최종 맞춤형 전략 제안 (`report8.png`)
 
 <p align="center">
-  <img src="./report4.jpg" width="45%"> <img src="./report5.jpg" width="45%">
-  <img src="./report6.jpg" width="45%"> <img src="./report7.jpg" width="45%">
-  <img src="./report8.jpg" width="90%">
+  <img src="./report4.png" width="45%"> <img src="./report5.png" width="45%">
+  <img src="./report6.png" width="45%"> <img src="./report7.png" width="45%">
+  <img src="./report8.png" width="90%">
 </p>
 
 </details>
