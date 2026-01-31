@@ -33,11 +33,11 @@
 
 | 1. 컨설팅 리포트 메인 | 2. 데이터 기반 분석 지표 | 3. 매장 타입별 맞춤 전략 |
 | :---: | :---: | :---: |
-| <img src="./report1.png" width="250"> | <img src="./report2.jpg" width="250"> | <img src="./report5.png" width="250"> |
+| <img src="./report1.png" width="250"> | <img src="./report2.png" width="250"> | <img src="./report5.png" width="250"> |
 | **Yelp 데이터를 활용한 건강도 진단** | **안정·충성·신뢰 3대 지표 설계** | **4가지 매장 타입 정의 및 처방** |
 
 <details>
-<summary>🔍 리포트 상세 분석 내용 더보기 (4~8번)</summary>
+<summary>🔍 리포트 상세 분석 내용 더보기 (4~7번)</summary>
 
 #### 📍 리포트 상세 구성
 4. **[Who We Are]** 데이터 운영 파트너로서의 분석 방향성 제시 (`report4.png`)
