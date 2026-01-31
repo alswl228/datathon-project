@@ -46,6 +46,14 @@
 7. **[메뉴 전략]** 데이터 기반의 메뉴 구성 및 효율화 솔루션 (`report7.jpg`)
 8. **[컨설팅 제언]** 지역 트렌드를 반영한 최종 맞춤형 전략 제안 (`report8.jpg`)
 
+<p align="center">
+  <img src="./report4.jpg" width="45%"> <img src="./report5.jpg" width="45%">
+  <img src="./report6.jpg" width="45%"> <img src="./report7.jpg" width="45%">
+  <img src="./report8.jpg" width="90%">
+</p>
+
+</details>
+*(현재 유로 호스팅 만료로 인해 캡처본으로 결과물을 대체합니다)*
 ### 📂 주요 프로젝트 결과물
 * 📢 [프로젝트 최종 발표 자료 (Googole Drive)](https://drive.google.com/file/d/1G-HyjlQNYO-RMCPpx4Bjs0eGXtB3SIrg/view?usp=sharing)
 
