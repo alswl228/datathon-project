@@ -33,18 +33,18 @@
 
 | 1. 컨설팅 리포트 메인 | 2. 데이터 기반 분석 지표 | 3. 매장 타입별 맞춤 전략 |
 | :---: | :---: | :---: |
-| <img src="./report1.jpg" width="250"> | <img src="./report2.jpg" width="250"> | <img src="./report3.jpg" width="250"> |
+| <img src="./report1.png" width="250"> | <img src="./report2.jpg" width="250"> | <img src="./report3.jpg" width="250"> |
 | **Yelp 데이터를 활용한 건강도 진단** | **안정·충성·신뢰 3대 지표 설계** | **4가지 매장 타입 정의 및 처방** |
 
 <details>
 <summary>🔍 리포트 상세 분석 내용 더보기 (4~8번)</summary>
 
 #### 📍 리포트 상세 구성
-4. **[Who We Are]** 데이터 운영 파트너로서의 분석 방향성 제시 (`report4.jpg`)
-5. **[매장 진단]** 사장님 스스로 현재 상태를 체크할 수 있는 가이드 제공 (`report5.jpg`)
-6. **[지역 심층 분석]** AI가 분석한 Florida 외식 시장의 핵심 성공 요인 (`report6.jpg`)
-7. **[메뉴 전략]** 데이터 기반의 메뉴 구성 및 효율화 솔루션 (`report7.jpg`)
-8. **[컨설팅 제언]** 지역 트렌드를 반영한 최종 맞춤형 전략 제안 (`report8.jpg`)
+4. **[Who We Are]** 데이터 운영 파트너로서의 분석 방향성 제시 (`report4.png`)
+5. **[매장 진단]** 사장님 스스로 현재 상태를 체크할 수 있는 가이드 제공 (`report5.png`)
+6. **[지역 심층 분석]** AI가 분석한 Florida 외식 시장의 핵심 성공 요인 (`report6.png`)
+7. **[메뉴 전략]** 데이터 기반의 메뉴 구성 및 효율화 솔루션 (`report7.png`)
+8. **[컨설팅 제언]** 지역 트렌드를 반영한 최종 맞춤형 전략 제안 (`report8.png`)
 
 <p align="center">
   <img src="./report4.jpg" width="45%"> <img src="./report5.jpg" width="45%">
